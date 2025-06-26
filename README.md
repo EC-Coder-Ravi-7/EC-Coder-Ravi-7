@@ -1,7 +1,7 @@
-<h1 align="center">
-  👋 <b>Welcome to my GitHub!</b>
+<h1 align="center" style="font-size: 40px;">
+  👋 Welcome to my GitHub!
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=I'm+Ravi+Shankar+Gupta;🚀+Web+Developer;📡+ECE+Engineer;📘+DSA+Learner;🌐+Tech+Explorer" alt="Typing SVG" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=I'm+Ravi+Shankar+Gupta;🚀+Web+Developer;📡+ECE+Engineer;📘+DSA+Learner;🌐+Tech+Explorer" alt="Typing SVG" />
+</p>
