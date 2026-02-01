@@ -11,7 +11,7 @@
 ## 🧠 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,sql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,sql" />
 </p>
 
 
