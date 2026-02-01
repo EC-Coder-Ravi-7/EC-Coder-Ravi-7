@@ -41,3 +41,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,sublime,firebase,socketio" />
 </p>
 
+## 🐍 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EC-Coder-Ravi-7/EC-Coder-Ravi-7/output/github-contribution-grid-snake.svg" />
+</p>
