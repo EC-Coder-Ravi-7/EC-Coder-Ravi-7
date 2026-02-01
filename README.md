@@ -49,3 +49,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/EC-Coder-Ravi-7/EC-Coder-Ravi-7/output/github-contribution-grid-snake.svg" />
 </p>
+
+### 🙏 Thanks for visiting my GitHub!
+
+If you liked my work, feel free to ⭐ star my repositories and connect with me.  
+Let’s build something amazing together 🚀
