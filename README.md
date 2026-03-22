@@ -18,6 +18,10 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
+  <a href="https://x.com/RaviShanka22307" target="_blank">
+    <img src="https://skillicons.dev/icons?i=x" />
+  </a>
+  
 </p>
 
 <p align="left">
