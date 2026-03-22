@@ -19,7 +19,7 @@
   </a>
   
   <a href="https://x.com/RaviShanka22307E" target="_blank">
-  <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white&logoWidth=25" />
 </a>
   
 </p>
