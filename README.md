@@ -7,6 +7,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&center=true&vCenter=true&width=900&color=random&lines=Coder+%7C+Web+Developer+%7C+ECE+Engineer;DSA+Learner+%7C+Tech+Explorer;Building+Real+World+Projects" />
 </div>
 
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ravi-shankar-gupta-ab19bb259/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
 
 
 <br/>
