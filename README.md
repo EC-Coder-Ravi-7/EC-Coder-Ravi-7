@@ -13,6 +13,15 @@
   <a href="https://www.linkedin.com/in/ravi-shankar-gupta-ab19bb259/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  
+  <a href="https://www.instagram.com/ravi__shankar__gupta___7/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/ravishankargupta209" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codeforces" />
+  </a>
+  
 </p>
 
 
