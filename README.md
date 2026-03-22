@@ -18,9 +18,9 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
-  <a href="https://x.com/RaviShanka22307" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x" />
-  </a>
+  <a href="https://x.com/RaviShanka22307E" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
   
 </p>
 
