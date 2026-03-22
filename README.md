@@ -18,12 +18,27 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
-  <a href="https://codeforces.com/profile/ravishankargupta209" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codeforces" />
-  </a>
-  
 </p>
 
+<p align="left">
+
+<a href="https://leetcode.com/u/Ravi__Shankar__gupta___7/">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://codeforces.com/profile/ravishankargupta209">
+  <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces" />
+</a>
+
+<a href="https://www.codechef.com/users/ravi_shankar_7">
+  <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/ravishankargupta7?tab=activity">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
+</a>
+
+</p>
 
 
 <br/>
